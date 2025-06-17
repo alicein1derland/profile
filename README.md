@@ -1,4 +1,4 @@
-# profile
+# Profile
 # Hi, I'm Anna 👋
 - 🌐 
 I'm a data science enthusiast and educator with a lifelong passion for technology and learning. As an INTJ born in the early '80s, I've always been driven by curiosity and a logical approach to problem-solving. From my first computer at age 8 — tinkering with DOS, Basic, and Windows 2.1 on dial-up — to my current journey in data science, technology has been both my playground and my passion.

@@ -8,10 +8,10 @@ I'm a data science enthusiast and educator with a lifelong passion for technolog
 ## About Me - 🌐 
 
 - **Early Beginnings:**  
-  My fascination with technology began early. I still recall the wonder of logging onto AOL via dial-up and exploring the limitless possibilities of DOS and Basic. These formative experiences set me on a path of perpetual learning.
+  My fascination with technology began in the late 1980s. I still recall the excitment of logging onto AOL via dial-up. Then exploring the limitless possibilities of DOS, the Basic programing language and using Netscape, on an IBM PC in our home. These experiences set me on a path of perpetual curiosity and learning.
 
 - **Educational Foundation & Career Transition:**  
-  At the University of West Florida (1999–2002), I pursued Computer Information Systems while also majoring in Preschool and Primary Education. This unique blend laid the groundwork for a career where I merge technical innovation with a commitment to improving educational outcomes.
+  At the University of West Florida (1999–2002), I pursued Computer Information Systems while also majoring in Preschool/Primary Education. This unique blend laid the groundwork for a career where I merge technical innovation with a commitment to improving educational outcomes.
 
 - **Analytical & Strategic Mindset:**  
   Being an INTJ, I’m naturally drawn to strategic thinking and logical analysis. Whether it’s interpreting complex data sets or developing streamlined solutions in the classroom, I bring a focused, detail-oriented approach to everything I do.

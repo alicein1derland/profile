@@ -21,7 +21,7 @@ I'm a data science enthusiast and educator with a lifelong passion for technolog
 ## Key Projects
 
 ### [Education Analytics Dashboard](https://github.com/alicein1derland/education-analytics-dashboard)
-An interactive dashboard that analyzes student performance trends and identifies at-risk groups. This project showcases how my background in education and passion for data science come together to create tools that drive actionable insights.
+This is an interactive dashboard that analyzes student performance trends and identifies at-risk groups that I'm working on. This project will be showcasing how my background in education and passion for data science come together to create tools that can drive actionable insights supporting all stakeholders.
 
 ### [Portfolio](https://github.com/alicein1derland/portfolio)
 This repository is an evolving chronicle of my journey into data science. Here, I experiment with new tools, document my learnings, and build projects that highlight my growth in technology and analytics.
